@@ -1,0 +1,2 @@
+# Pripaymanager
+PanchaytiRaj Project
